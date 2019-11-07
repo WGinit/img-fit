@@ -1,6 +1,6 @@
 {
   "name": "img-fit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "web端图片自定义优化显示",
   "main": "index.js",
   "scripts": {

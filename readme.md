@@ -35,7 +35,6 @@ require('img-fit')
 | mode | String | '' | N | 显示类型，详情见以下描述 |
 | width | String | 300px | N | 宽度|
 | height | String | 220px | N | 高度 |
-| error | Function | null | N | 加载失败 |
 
 #### mode 参数
 | 字段 | 说明|
