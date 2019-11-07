@@ -1,0 +1,17 @@
+{
+  "name": "img-fit",
+  "version": "1.0.1",
+  "description": "web端图片自定义优化显示",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["img-fit", "img"],
+  "author": "wginit@yeah.net",
+  "license": "ISC",
+  "files": [
+    "index.js",
+    "lib",
+    "readme.md"
+  ]
+}
